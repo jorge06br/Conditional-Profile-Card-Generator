@@ -3,6 +3,7 @@
   background: white;
   width: 100%;
   justify-content: center;
+  left: 20%;
 }
 .filters li {
   display: inline-block;
@@ -75,10 +76,10 @@
   background: #2cdfd3;
 }
 .widget ul.position-left {
-  left: -26px;
+  left: -28px;
 }
 .widget ul.position-right {
-  right: -27px;
+  right: -28px;
 }
 .widget ul li {
   list-style: none;
