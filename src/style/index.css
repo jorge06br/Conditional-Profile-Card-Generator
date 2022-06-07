@@ -1,6 +1,8 @@
 .filters {
+  position: relative;
   background: white;
   width: 100%;
+  justify-content: center;
 }
 .filters li {
   display: inline-block;
@@ -99,4 +101,9 @@
 .widget ul li:last-child > a {
   border: none;
   border-radius: 0 0 3px 0;
+}
+
+.flex_name {
+  display: flex;
+  justify-content: center;
 }
